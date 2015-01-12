@@ -1,0 +1,12 @@
+function valOut = get( advin,type )
+% GET for an advar
+
+switch type
+    case 'val'
+        valOut = advin.val;
+    case 'der'
+        valOut = advin.der;
+end
+
+end
+

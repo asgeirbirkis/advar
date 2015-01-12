@@ -1,0 +1,20 @@
+		      The advar class
+
+Copyright (c) 2015, Asgeir Birkisson and Tobin A. Driscoll. 
+
+The advar class is compatible with MATLAB 7.6 (2008a) and above.
+
+Installation instructions:
+
+1. Unzip the contents of the zip file to a directory. We suggest the 
+   name "advar" for this directory. 
+
+2. In MATLAB, add the advar directory to your path. This can be done
+   by selecting "File/Set Path..." from the main or Command window
+   menus, or with the command "pathtool". 
+
+Please see the file LICENSE.txt for licensing information.
+
+
+
+
